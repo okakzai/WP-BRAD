@@ -13,4 +13,4 @@ WP BRAD (Browse, Read, Add, Delete) is a wordpress plugin offers comprehensive f
 * Delete data from database
 * Export data to Excel (.xlsx) file
 * Export data to PDF (.pdf) file
-* Shortcode <span class="badge badge-success">[wp-brad]</span>
+* Shortcode <strong>[wp-brad]</strong>
